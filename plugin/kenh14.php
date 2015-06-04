@@ -24,8 +24,6 @@ class Kenh14 implements iplugin{
     public function setXpath(){
         $xpath = array(
             'item'      => "//div[@class='content_news']",
-            // 'img'       => "//div[@class='content_news']/div[@class='avatar-type-1']/a/img",
-             // 'link_cnt'  => "//div[@class='content_news']/h2/a",
             );
         $this->xpath = $xpath;
         return $this->xpath;

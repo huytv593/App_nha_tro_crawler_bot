@@ -10,10 +10,10 @@
 //define('BOT_MAX_EXECUTION_TIME','3000');              //max time out - some host not accept set max execution time
 
 define('IMAGE_PATH', '/img/');
-define('TV_IMAGE_FOLDER',dirname(__FILE__).'/../../assets/images/show/');
+//define('TV_IMAGE_FOLDER',dirname(__FILE__).'/../../assets/images/show/');
 
 /* YOUTUBE API */
-define('YOUTUBE_API_KEY','AIzaSyCPDdUit8HAaQ2jaeCbEGNC9SnUws1vsso');
+//define('YOUTUBE_API_KEY','AIzaSyCPDdUit8HAaQ2jaeCbEGNC9SnUws1vsso');
 
 
 /* LOG */

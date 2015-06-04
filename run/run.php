@@ -8,7 +8,7 @@ require_once('config.php');
 require_once('bot.php');
 require_once('helper/vlog.php');
 
-$plugin = 'KENH14';
+$plugin = 'BATDONGSAN';
 
 $arr_link = array(
     strtoupper($plugin)
@@ -17,7 +17,7 @@ $arr_link = array(
 //* PARAM *//
 //plugin to run bot
 $arr_plugin = array(
-    0 => 'KENH14',
+    0 => 'BATDONGSAN',
 );
 
 //* BOT PROCESS *//

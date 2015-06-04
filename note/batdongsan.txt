@@ -1,0 +1,37 @@
+- get max page: .//*[@id='form1']/div[4]/div[6]/div[3]/div/div[9]/div/a[last()] > href. Example: <a href="/cho-thue-nha-tro-phong-tro/p103">
+- item nhatro per page: //div[@class='Main']/div bo 1 & 2
+- link to item nhatro: //div[@class='Main']/div[3]/div[@class='p-title']/a
+
+
+---- item page ---
+- item full content: .//div[@id='product-detail']
+- title: //div[@id='product-detail']/div[@class='pm-title']/h1
+- dia diem:
+    //div[@class='left-detail']/div[1]/div[@class='right']
+    Ex:43/3 Đường Thành Thái, Quận 10, Hồ Chí Minh
+- gia:
+    //div[@class='kqchitiet']/span[2]/span[1]/strong
+    Ex:4 triệu/tháng
+- dien tich:
+    //div[@class='kqchitiet']/span[2]/span[2]/strong
+    Ex:22m²
+- mo ta chi tiet:
+    //div[@class='pm-content stat']
+    Ex: bi thua chuoi tu khoa
+- Anh:
+    1. co anh: //div[@class='img-map']/div => 2 nodes
+        co anh: //div[@class='img-map']/div[@id='photoSlide']/div[@id='divPhotoActive']/div/img => 2 nodes
+    2. khong co anh //div[@class='img-map']/div => 1 nodes
+
+- Ngay dang tin:
+    //div[@class='left-detail']/div[4]/div[@class='right']
+    Ex: 31-05-2015
+- Ngay het han:
+    //div[@class='left-detail']/div[5]/div[@class='right']
+    Ex: 10-06-2015
+
+
+    Lien he:
+- Ten: //div[@id='LeftMainContent__productDetail_contactName']/div[2]
+- DT: //div[@id='LeftMainContent__productDetail_contactPhone']/div[2]
+- Email: //div[@id='LeftMainContent__productDetail_contactEmail']/div[2]/a
