@@ -1,0 +1,99 @@
+INFO: 2013-09-29 10:19:43 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:19:43 : Xoa cac file log cu trong gioi han: LOG_CLEAN_DAY ngay!
+INFO: 2013-09-29 10:19:43 : Da xoa file log cu thanh cong
+WARNING: 2013-09-29 10:19:43 : Khong co plugin TV_ZING!
+INFO: 2013-09-29 10:19:43 : Khong co plugin nao de chay crawl
+INFO: 2013-09-29 10:19:43 : --- Ket thuc bot ---
+INFO: 2013-09-29 10:20:23 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:20:23 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:20:23 : Da xoa file log cu thanh cong
+WARNING: 2013-09-29 10:20:23 : Khong co plugin TV_ZING!
+INFO: 2013-09-29 10:20:23 : Khong co plugin nao de chay crawl
+INFO: 2013-09-29 10:20:23 : --- Ket thuc bot ---
+INFO: 2013-09-29 10:20:46 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:20:46 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:20:46 : Da xoa file log cu thanh cong
+WARNING: 2013-09-29 10:20:46 : Khong co plugin KENH14
+INFO: 2013-09-29 10:20:46 : --- Ket thuc bot ---
+INFO: 2013-09-29 10:21:21 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:21:21 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:21:21 : Da xoa file log cu thanh cong
+WARNING: 2013-09-29 10:21:21 : Khong co plugin KENH14
+INFO: 2013-09-29 10:21:21 : --- Ket thuc bot ---
+INFO: 2013-09-29 10:22:58 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:22:58 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:22:58 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:22:58 : Bat dau chay plugin KENH
+INFO: 2013-09-29 10:22:58 : [START CRAWLER] AT: 2013/09/29 10:22:58
+INFO: 2013-09-29 10:24:34 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:24:34 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:24:34 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:24:34 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:24:34 : [START CRAWLER] AT: 2013/09/29 10:24:34
+INFO: 2013-09-29 10:25:20 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:25:21 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:25:21 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:25:21 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:25:21 : [START CRAWLER] AT: 2013/09/29 10:25:21
+INFO: 2013-09-29 10:28:18 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:28:18 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:28:18 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:28:18 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:28:18 : [START CRAWLER] AT: 2013/09/29 10:28:18
+WARNING: 2013-09-29 10:28:33 : Not found page content 1
+INFO: 2013-09-29 10:28:33 : Ket thuc chay plugin KENH14
+INFO: 2013-09-29 10:28:33 : --- Ket thuc bot ---
+INFO: 2013-09-29 10:31:41 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:33:34 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:33:34 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:33:34 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:33:34 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:33:34 : [START CRAWLER] AT: 2013/09/29 10:33:34
+INFO: 2013-09-29 10:34:03 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:34:03 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:34:03 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:34:03 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:34:03 : [START CRAWLER] AT: 2013/09/29 10:34:03
+INFO: 2013-09-29 10:58:47 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:58:47 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:58:47 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:58:47 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:58:47 : [START CRAWLER] AT: 2013/09/29 10:58:47
+INFO: 2013-09-29 10:59:12 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:59:12 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:59:12 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:59:12 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:59:12 : [START CRAWLER] AT: 2013/09/29 10:59:12
+INFO: 2013-09-29 10:59:35 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:59:35 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:59:35 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:59:35 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:59:35 : [START CRAWLER] AT: 2013/09/29 10:59:35
+INFO: 2013-09-29 10:59:45 : --- Bat dau chay bot ---
+INFO: 2013-09-29 10:59:45 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 10:59:45 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 10:59:45 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 10:59:45 : [START CRAWLER] AT: 2013/09/29 10:59:45
+INFO: 2013-09-29 11:00:51 : --- Bat dau chay bot ---
+INFO: 2013-09-29 11:00:51 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 11:00:51 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 11:00:51 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 11:00:51 : [START CRAWLER] AT: 2013/09/29 11:00:51
+INFO: 2013-09-29 11:18:56 : --- Bat dau chay bot ---
+INFO: 2013-09-29 11:18:56 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 11:18:56 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 11:18:56 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 11:18:56 : [START CRAWLER] AT: 2013/09/29 11:18:56
+INFO: 2013-09-29 11:22:18 : --- Bat dau chay bot ---
+INFO: 2013-09-29 11:22:18 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 11:22:18 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 11:22:18 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 11:22:18 : [START CRAWLER] AT: 2013/09/29 11:22:18
+WARNING: 2013-09-29 11:22:32 : Not found page content 1
+INFO: 2013-09-29 11:22:32 : Ket thuc chay plugin KENH14
+INFO: 2013-09-29 11:22:32 : --- Ket thuc bot ---
+INFO: 2013-09-29 11:58:38 : --- Bat dau chay bot ---
+INFO: 2013-09-29 11:58:38 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2013-09-29 11:58:38 : Da xoa file log cu thanh cong
+INFO: 2013-09-29 11:58:38 : Bat dau chay plugin KENH14
+INFO: 2013-09-29 11:58:38 : [START CRAWLER] AT: 2013/09/29 11:58:38

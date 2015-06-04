@@ -1,0 +1,191 @@
+INFO: 2015-06-02 12:19:36 : --- Bat dau chay bot ---
+INFO: 2015-06-02 12:19:36 : Xoa cac file log cu trong gioi han: 30 ngay!
+INFO: 2015-06-02 12:19:36 : Da xoa file log cu thanh cong
+INFO: 2015-06-02 12:19:36 : Bat dau chay plugin KENH14
+INFO: 2015-06-02 12:19:36 : [START CRAWLER] AT: 2015/06/02 12:19:36
+INFO: 2015-06-02 12:19:56 : [END CRAWLER AT]: 2015/06/02 12:19:56
+INFO: 2015-06-02 12:19:56 : Ket thuc chay plugin KENH14
+INFO: 2015-06-02 12:19:56 : --- Ket thuc bot ---
+INFO: 2015-06-02 12:21:51 : --- Bat dau chay bot ---
+INFO: 2015-06-02 12:21:51 : Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 12:21:51 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 12:21:51 : Bat dau chay plugin KENH14
+INFO: 2015-06-02 12:21:51 : [START CRAWLER] AT: 2015/06/02 12:21:51
+INFO: 2015-06-02 12:22:11 : [END CRAWLER AT]: 2015/06/02 12:22:11
+INFO: 2015-06-02 12:22:11 : Ket thuc chay plugin KENH14
+INFO: 2015-06-02 12:22:11 : --- Ket thuc bot ---
+INFO: 2015-06-02 12:23:36 : --- Bat dau chay bot ---
+INFO: 2015-06-02 12:23:36 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 12:23:36 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 12:23:36 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 12:23:36 : [START CRAWLER] AT: 2015/06/02 12:23:36
+INFO: 2015-06-02 12:23:56 : [END CRAWLER AT]: 2015/06/02 12:23:56
+INFO: 2015-06-02 12:23:56 : Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 12:23:56 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:00:59 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:00:59 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:00:59 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:00:59 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:00:59 : [START CRAWLER] AT: 2015/06/02 13:00:59
+INFO: 2015-06-02 13:00:59 : [END CRAWLER AT]: 2015/06/02 13:00:59
+INFO: 2015-06-02 13:00:59 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:00:59 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:02:01 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:02:01 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:02:01 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:02:01 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:02:01 : [START CRAWLER] AT: 2015/06/02 13:02:01
+INFO: 2015-06-02 13:02:21 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:02:21 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:02:21 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:02:21 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:02:21 : [START CRAWLER] AT: 2015/06/02 13:02:21
+INFO: 2015-06-02 13:02:21 : [END CRAWLER AT]: 2015/06/02 13:02:21
+INFO: 2015-06-02 13:02:21 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:02:21 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:06:10 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:06:10 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:06:10 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:06:10 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:06:10 : [START CRAWLER] AT: 2015/06/02 13:06:10
+INFO: 2015-06-02 13:06:11 : [END CRAWLER AT]: 2015/06/02 13:06:11
+INFO: 2015-06-02 13:06:11 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:06:11 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:15:17 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:15:17 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:15:17 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:15:17 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:15:17 : [START CRAWLER] AT: 2015/06/02 13:15:17
+INFO: 2015-06-02 13:15:17 : [END CRAWLER AT]: 2015/06/02 13:15:17
+INFO: 2015-06-02 13:15:17 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:15:17 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:17:35 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:17:35 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:17:35 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:17:35 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:17:35 : [START CRAWLER] AT: 2015/06/02 13:17:35
+INFO: 2015-06-02 13:17:35 : [END CRAWLER AT]: 2015/06/02 13:17:35
+INFO: 2015-06-02 13:17:35 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:17:35 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:21:33 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:21:33 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:21:33 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:21:33 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:21:33 : [START CRAWLER] AT: 2015/06/02 13:21:33
+INFO: 2015-06-02 13:21:46 : [END CRAWLER AT]: 2015/06/02 13:21:46
+INFO: 2015-06-02 13:21:46 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:21:46 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:22:36 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:22:36 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:22:36 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:22:36 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:22:36 : [START CRAWLER] AT: 2015/06/02 13:22:36
+INFO: 2015-06-02 13:22:46 : [END CRAWLER AT]: 2015/06/02 13:22:46
+INFO: 2015-06-02 13:22:46 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:22:46 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:23:33 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:23:33 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:23:33 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:23:33 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:23:33 : [START CRAWLER] AT: 2015/06/02 13:23:33
+INFO: 2015-06-02 13:23:48 : [END CRAWLER AT]: 2015/06/02 13:23:48
+INFO: 2015-06-02 13:23:48 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:23:48 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:24:10 : --- Bat dau chay bot ---
+INFO: 2015-06-02 13:24:10 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:24:10 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:24:10 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:24:10 : [START CRAWLER] AT: 2015/06/02 13:24:10
+INFO: 2015-06-02 13:24:18 : [END CRAWLER AT]: 2015/06/02 13:24:18
+INFO: 2015-06-02 13:24:18 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:24:18 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:25:31 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:25:31 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:25:31 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:25:31 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:25:31 : [START CRAWLER] AT: 2015/06/02 13:25:31<br>
+INFO: 2015-06-02 13:25:54 : [END CRAWLER AT]: 2015/06/02 13:25:54<br>
+INFO: 2015-06-02 13:25:54 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:25:54 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:31:21 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:31:21 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:31:21 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:31:21 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:31:21 : [START CRAWLER] AT: 2015/06/02 13:31:21<br>
+INFO: 2015-06-02 13:31:53 : [END CRAWLER AT]: 2015/06/02 13:31:53<br>
+INFO: 2015-06-02 13:31:54 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:31:54 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:34:09 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:34:09 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:34:09 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:34:09 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:34:09 : [START CRAWLER] AT: 2015/06/02 13:34:09<br>
+INFO: 2015-06-02 13:34:32 : [END CRAWLER AT]: 2015/06/02 13:34:32<br>
+INFO: 2015-06-02 13:34:32 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:34:32 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:36:30 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:36:30 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:36:30 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:36:30 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:36:30 : [START CRAWLER] AT: 2015/06/02 13:36:30<br>
+INFO: 2015-06-02 13:36:41 : [END CRAWLER AT]: 2015/06/02 13:36:41<br>
+INFO: 2015-06-02 13:36:41 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:36:41 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:41:22 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:41:22 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:41:22 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:41:22 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:41:22 : [START CRAWLER] AT: 2015/06/02 13:41:22
+INFO: 2015-06-02 13:42:37 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:42:37 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:42:37 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:42:37 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:42:37 : [START CRAWLER] AT: 2015/06/02 13:42:37
+INFO: 2015-06-02 13:42:37 : [END CRAWLER AT]: 2015/06/02 13:42:37
+INFO: 2015-06-02 13:42:37 : <br>Ket thuc chay plugin HAIVL<br>
+INFO: 2015-06-02 13:42:37 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:42:47 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:42:47 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:42:47 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:42:47 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:42:47 : [START CRAWLER] AT: 2015/06/02 13:42:47
+INFO: 2015-06-02 13:43:19 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:43:19 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:43:19 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:43:19 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:43:19 : [START CRAWLER] AT: 2015/06/02 13:43:19
+INFO: 2015-06-02 13:43:28 : [END CRAWLER AT]: 2015/06/02 13:43:28
+INFO: 2015-06-02 13:43:28 : <br>Ket thuc chay plugin HAIVL<br>
+INFO: 2015-06-02 13:43:28 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:44:00 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:44:00 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:44:00 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:44:00 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:44:00 : [START CRAWLER] AT: 2015/06/02 13:44:00
+INFO: 2015-06-02 13:44:09 : [END CRAWLER AT]: 2015/06/02 13:44:09
+INFO: 2015-06-02 13:44:09 : <br>Ket thuc chay plugin HAIVL<br>
+INFO: 2015-06-02 13:44:09 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:46:18 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:46:18 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:46:18 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:46:18 : 2. Bat dau chay plugin HAIVL<br>
+INFO: 2015-06-02 13:46:18 : [START CRAWLER] AT: 2015/06/02 13:46:18
+INFO: 2015-06-02 13:46:32 : [END CRAWLER AT]: 2015/06/02 13:46:32
+INFO: 2015-06-02 13:46:32 : <br>Ket thuc chay plugin HAIVL<br>
+INFO: 2015-06-02 13:46:32 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:47:50 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:47:50 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:47:50 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:47:50 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:47:50 : [START CRAWLER] AT: 2015/06/02 13:47:50<br>
+INFO: 2015-06-02 13:48:04 : [END CRAWLER AT]: 2015/06/02 13:48:04<br>
+INFO: 2015-06-02 13:48:04 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:48:04 : --- Ket thuc bot ---
+INFO: 2015-06-02 13:48:24 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-02 13:48:24 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-02 13:48:24 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-02 13:48:24 : 2. Bat dau chay plugin KENH14<br>
+INFO: 2015-06-02 13:48:24 : [START CRAWLER] AT: 2015/06/02 13:48:24<br>
+INFO: 2015-06-02 13:48:34 : [END CRAWLER AT]: 2015/06/02 13:48:34<br>
+INFO: 2015-06-02 13:48:34 : <br>Ket thuc chay plugin KENH14<br>
+INFO: 2015-06-02 13:48:34 : --- Ket thuc bot ---
