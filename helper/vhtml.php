@@ -31,6 +31,7 @@ class Html{
 		$elements = $xpath->query($xpath_str);
 
 		$domDocument = new DOMDocument();
+		$domDocument->encoding = 'utf-8';
 		foreach ($elements as $element) {
 			$domDocument->appendChild($domDocument->importNode($element, true));
 		}

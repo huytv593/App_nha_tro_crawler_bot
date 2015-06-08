@@ -78,7 +78,7 @@ class Kenh14 implements iplugin{
             $likeCnt = html_entity_decode(strip_tags($objhtml->get_xpath_content($like_xpath)),ENT_NOQUOTES,"UTF-8");
             
             var_dump($likeCnt);echo '<br>';
-            var_dump($title);echo '<br>';
+            echo mb_detect_encoding($title);echo '<br>';
             var_dump($link_img);echo '<br>';
             echo '--------<br>';
         }
