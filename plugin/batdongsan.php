@@ -21,6 +21,8 @@ class Batdongsan implements iplugin
     public $name = 'BATDONGSAN';
     public $connect = null;
     public $log;
+    public $done = 0;
+    public $err = 0;
     public $image_path = './img/';
     public $link = array();
     public $xpath = array();
@@ -84,7 +86,8 @@ class Batdongsan implements iplugin
         $json = json_decode($response,true);
         $lat = $json['results'][0]['geometry']['location']['lat'];
         $lng = $json['results'][0]['geometry']['location']['lng'];
-
+        // var_dump($url);
+        // var_dump($response);
         return array($lat, $lng);
     }
 
@@ -116,7 +119,6 @@ class Batdongsan implements iplugin
             if($ic== 1)  $link = $this->link['domain'];
             else   $link = 'http://batdongsan.com.vn/cho-thue-nha-tro-phong-tro/p'.$ic;
             $result = $this->getItem($link);
-//            var_dump($result)
             foreach ($result as $key => $value) {
                 $data[] = $this->getData($value, $conn);
             }
@@ -135,7 +137,6 @@ class Batdongsan implements iplugin
         $objhtml->init($content);
         $item_sum_xpath = $this->xpath['item'];
         $item_sum = $objhtml->get_xpath_node_length($item_sum_xpath);
-//        var_dump($item_sum);
         for ($ic = 3; $ic <= $item_sum; $ic++) {
             $nhatro_xpath = $this->xpath['item'] . "[$ic]/div[@class='p-title']/a";
             $nhatro_item = $objhtml->get_xpath_attr($nhatro_xpath);
@@ -177,7 +178,6 @@ class Batdongsan implements iplugin
         $nhatro['price'] =  (float)$tmp_price * 1000000;
 
         $nhatro['detail'] =  html_entity_decode(strip_tags(trim($objhtml->get_xpath_content($this->xpath['detail']))),ENT_NOQUOTES,"UTF-8");
-
         $tmp_area =  trim($objhtml->get_xpath_content($this->xpath['area']));
         if(strstr($tmp_area, 'm', true))
             $nhatro['area'] =  strstr($tmp_area, 'm', true);
@@ -191,7 +191,7 @@ class Batdongsan implements iplugin
         $tmp_create = date_create_from_format("d-m-Y", $nhatro['end_at']);
         $nhatro['end_at'] = date_format($tmp_create,'Y-m-d');
 
-        $nhatro['contact_name'] =  trim($objhtml->get_xpath_content($this->xpath['contact_name']));
+        $nhatro['contact_name'] =  html_entity_decode(strip_tags(trim($objhtml->get_xpath_content($this->xpath['contact_name']))),ENT_NOQUOTES,"UTF-8");
 
         $nhatro['contact_phone'] =  trim($objhtml->get_xpath_content($this->xpath['contact_phone']));
 
@@ -202,11 +202,10 @@ class Batdongsan implements iplugin
             $nhatro['imga'] = $img_a_link;
         } else $nhatro['imga'] = '';
 
-//        var_dump($nhatro); die;
         //Save data to mysql;
         $result = array();
         $result['title'] = $nhatro['title'];
-        $query = "INSERT INTO nhatros (title, created_by, created_at, end_at, price, city, district, precinct, street, address, area, info, imga, imgb, imgc, imgd, longit, latit) VALUE ("
+        $query = "INSERT INTO nhatros (title, created_by, created_at, end_at, price, city, district, precinct, street, address, area, info, imga, imgb, imgc, imgd, longit, latit, contact_name, contact_phone) VALUE ("
             ."'".$nhatro['title']."',"
             ."0,"
             ."'".$nhatro['created_at']."',"
@@ -224,13 +223,14 @@ class Batdongsan implements iplugin
             ."'',"
             ."'',"
             ."'".$nhatro['longit']."',"
-            ."'".$nhatro['latit']."'
+            ."'".$nhatro['latit']."',"
+            ."'".$nhatro['contact_name']."',"
+            ."'".$nhatro['contact_phone']."'
             )";
-//        var_dump($query); die;
-        if($conn->query($query) === TRUE) $result['result'] = '=>>> thanh cong';
-        else $result['result'] = $conn->error;
-        var_dump($result);
-
+        if($conn->query($query) === TRUE){ $result['result'] = '=>>> done'; $this->done++;}
+        else { $result['result'] = $conn->error; $this->err++;}
+        echo $result['title'].' latit: '.$nhatro['latit'].$result['result'].'<br>';
+        // var_dump($nhatro); die;
         return $nhatro;
     }
 
@@ -247,6 +247,8 @@ class Batdongsan implements iplugin
         $now = date('Y/m/d H:i:s');
         $this->log = Log::log(LOG_ENABLED, LOG_PRINT_SCREEN);
         $this->log->info('[END CRAWLER AT]: ' . $now . '<br>');
+        echo 'Done: '.$this->done;
+        echo 'Err: '.$this->err;
     }
 }
 ?>

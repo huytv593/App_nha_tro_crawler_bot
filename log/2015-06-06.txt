@@ -1,0 +1,456 @@
+INFO: 2015-06-06 15:12:34 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:12:34 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:12:34 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:12:34 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:12:34 : [START CRAWLER] AT: 2015/06/06 15:12:34<br>
+INFO: 2015-06-06 15:17:12 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:17:12 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:17:12 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:17:12 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:17:12 : [START CRAWLER] AT: 2015/06/06 15:17:12<br>
+INFO: 2015-06-06 15:22:13 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:22:13 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:22:13 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:22:43 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:22:43 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:22:43 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:22:43 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:22:43 : [START CRAWLER] AT: 2015/06/06 15:22:43<br>
+INFO: 2015-06-06 15:23:11 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:23:11 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:23:11 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:23:11 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:23:11 : [START CRAWLER] AT: 2015/06/06 15:23:11<br>
+INFO: 2015-06-06 15:23:14 : [END CRAWLER AT]: 2015/06/06 15:23:14<br>
+INFO: 2015-06-06 15:23:14 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:23:14 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:25:09 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:25:09 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:25:09 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:25:09 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:25:09 : [START CRAWLER] AT: 2015/06/06 15:25:09<br>
+INFO: 2015-06-06 15:25:14 : [END CRAWLER AT]: 2015/06/06 15:25:14<br>
+INFO: 2015-06-06 15:25:14 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:25:14 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:28:36 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:28:36 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:28:36 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:28:36 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:28:36 : [START CRAWLER] AT: 2015/06/06 15:28:36<br>
+INFO: 2015-06-06 15:29:45 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:29:45 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:29:45 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:29:45 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:29:45 : [START CRAWLER] AT: 2015/06/06 15:29:45<br>
+INFO: 2015-06-06 15:30:31 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:30:31 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:30:31 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:30:31 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:30:31 : [START CRAWLER] AT: 2015/06/06 15:30:31<br>
+INFO: 2015-06-06 15:32:43 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:32:43 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:32:43 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:32:43 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:32:43 : [START CRAWLER] AT: 2015/06/06 15:32:43<br>
+INFO: 2015-06-06 15:32:46 : [END CRAWLER AT]: 2015/06/06 15:32:46<br>
+INFO: 2015-06-06 15:32:46 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:32:46 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:42:58 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:42:58 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:42:58 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:42:58 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:42:58 : [START CRAWLER] AT: 2015/06/06 15:42:58<br>
+INFO: 2015-06-06 15:43:17 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:43:17 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:43:17 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:43:17 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:43:17 : [START CRAWLER] AT: 2015/06/06 15:43:17<br>
+INFO: 2015-06-06 15:43:47 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:43:47 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:43:47 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:43:47 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:43:47 : [START CRAWLER] AT: 2015/06/06 15:43:47<br>
+INFO: 2015-06-06 15:45:30 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:45:30 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:45:30 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:45:30 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:45:30 : [START CRAWLER] AT: 2015/06/06 15:45:30<br>
+INFO: 2015-06-06 15:45:43 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:45:43 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:45:43 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:45:43 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:45:43 : [START CRAWLER] AT: 2015/06/06 15:45:43<br>
+INFO: 2015-06-06 15:45:58 : [END CRAWLER AT]: 2015/06/06 15:45:58<br>
+INFO: 2015-06-06 15:45:58 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:45:58 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:52:22 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:52:22 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:52:22 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:52:22 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:52:22 : [START CRAWLER] AT: 2015/06/06 15:52:22<br>
+INFO: 2015-06-06 15:52:30 : [END CRAWLER AT]: 2015/06/06 15:52:30<br>
+INFO: 2015-06-06 15:52:30 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:52:30 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:52:34 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:52:34 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:52:34 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:52:34 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:52:34 : [START CRAWLER] AT: 2015/06/06 15:52:34<br>
+INFO: 2015-06-06 15:53:02 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:53:02 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:53:02 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:53:02 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:53:02 : [START CRAWLER] AT: 2015/06/06 15:53:02<br>
+INFO: 2015-06-06 15:53:42 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:53:42 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:53:42 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:53:42 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:53:42 : [START CRAWLER] AT: 2015/06/06 15:53:42<br>
+INFO: 2015-06-06 15:55:35 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:55:35 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:55:35 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:55:35 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:55:35 : [START CRAWLER] AT: 2015/06/06 15:55:35<br>
+INFO: 2015-06-06 15:55:46 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:55:46 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:55:47 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:55:47 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:55:47 : [START CRAWLER] AT: 2015/06/06 15:55:47<br>
+INFO: 2015-06-06 15:56:07 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:56:07 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:56:07 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:56:07 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:56:07 : [START CRAWLER] AT: 2015/06/06 15:56:07<br>
+INFO: 2015-06-06 15:56:14 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:56:14 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:56:14 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:56:14 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:56:14 : [START CRAWLER] AT: 2015/06/06 15:56:14<br>
+INFO: 2015-06-06 15:57:05 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:57:05 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:57:05 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:57:05 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:57:05 : [START CRAWLER] AT: 2015/06/06 15:57:05<br>
+INFO: 2015-06-06 15:57:31 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:57:31 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:57:31 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:57:31 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:57:31 : [START CRAWLER] AT: 2015/06/06 15:57:31<br>
+INFO: 2015-06-06 15:58:31 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:58:31 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:58:31 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:58:31 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:58:31 : [START CRAWLER] AT: 2015/06/06 15:58:31<br>
+INFO: 2015-06-06 15:58:51 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:58:51 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:58:51 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:58:51 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:58:51 : [START CRAWLER] AT: 2015/06/06 15:58:51<br>
+INFO: 2015-06-06 15:59:07 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:59:07 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:59:07 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:59:07 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:59:07 : [START CRAWLER] AT: 2015/06/06 15:59:07<br>
+INFO: 2015-06-06 15:59:13 : [END CRAWLER AT]: 2015/06/06 15:59:13<br>
+INFO: 2015-06-06 15:59:13 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:59:13 : --- Ket thuc bot ---
+INFO: 2015-06-06 15:59:49 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 15:59:49 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 15:59:49 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 15:59:49 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 15:59:49 : [START CRAWLER] AT: 2015/06/06 15:59:49<br>
+INFO: 2015-06-06 16:00:08 : [END CRAWLER AT]: 2015/06/06 16:00:08<br>
+INFO: 2015-06-06 16:00:08 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:00:08 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:01:25 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:01:25 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:01:25 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:01:25 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:01:25 : [START CRAWLER] AT: 2015/06/06 16:01:25<br>
+INFO: 2015-06-06 16:01:31 : [END CRAWLER AT]: 2015/06/06 16:01:31<br>
+INFO: 2015-06-06 16:01:31 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:01:31 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:04:36 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:04:36 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:04:36 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:04:36 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:04:36 : [START CRAWLER] AT: 2015/06/06 16:04:36<br>
+INFO: 2015-06-06 16:04:41 : [END CRAWLER AT]: 2015/06/06 16:04:41<br>
+INFO: 2015-06-06 16:04:41 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:04:41 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:05:18 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:05:18 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:05:18 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:05:18 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:05:18 : [START CRAWLER] AT: 2015/06/06 16:05:18<br>
+INFO: 2015-06-06 16:05:22 : [END CRAWLER AT]: 2015/06/06 16:05:22<br>
+INFO: 2015-06-06 16:05:22 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:05:22 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:08:21 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:08:21 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:08:21 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:08:21 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:08:21 : [START CRAWLER] AT: 2015/06/06 16:08:21<br>
+INFO: 2015-06-06 16:08:25 : [END CRAWLER AT]: 2015/06/06 16:08:25<br>
+INFO: 2015-06-06 16:08:25 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:08:25 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:10:09 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:10:09 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:10:09 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:10:09 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:10:09 : [START CRAWLER] AT: 2015/06/06 16:10:09<br>
+INFO: 2015-06-06 16:14:56 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:14:56 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:14:56 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:14:56 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:14:56 : [START CRAWLER] AT: 2015/06/06 16:14:56<br>
+INFO: 2015-06-06 16:15:00 : [END CRAWLER AT]: 2015/06/06 16:15:00<br>
+INFO: 2015-06-06 16:15:00 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:15:00 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:22:14 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:22:14 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:22:14 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:22:14 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:22:14 : [START CRAWLER] AT: 2015/06/06 16:22:14<br>
+INFO: 2015-06-06 16:22:20 : [END CRAWLER AT]: 2015/06/06 16:22:20<br>
+INFO: 2015-06-06 16:22:20 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:22:20 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:22:45 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:22:45 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:22:45 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:22:45 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:22:45 : [START CRAWLER] AT: 2015/06/06 16:22:45<br>
+INFO: 2015-06-06 16:22:49 : [END CRAWLER AT]: 2015/06/06 16:22:49<br>
+INFO: 2015-06-06 16:22:49 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:22:49 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:22:50 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:22:50 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:22:50 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:22:50 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:22:50 : [START CRAWLER] AT: 2015/06/06 16:22:50<br>
+INFO: 2015-06-06 16:24:39 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:24:39 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:24:39 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:24:39 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:24:39 : [START CRAWLER] AT: 2015/06/06 16:24:39<br>
+INFO: 2015-06-06 16:24:49 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:24:49 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:24:49 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:24:49 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:24:49 : [START CRAWLER] AT: 2015/06/06 16:24:49<br>
+INFO: 2015-06-06 16:25:43 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:25:43 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:25:43 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:25:43 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:25:43 : [START CRAWLER] AT: 2015/06/06 16:25:43<br>
+INFO: 2015-06-06 16:26:16 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:26:16 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:26:16 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:26:16 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:26:16 : [START CRAWLER] AT: 2015/06/06 16:26:16<br>
+INFO: 2015-06-06 16:27:27 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:27:27 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:27:27 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:27:27 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:27:27 : [START CRAWLER] AT: 2015/06/06 16:27:27<br>
+INFO: 2015-06-06 16:27:44 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:27:44 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:27:44 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:27:44 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:27:44 : [START CRAWLER] AT: 2015/06/06 16:27:44<br>
+INFO: 2015-06-06 16:27:59 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:27:59 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:27:59 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:27:59 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:27:59 : [START CRAWLER] AT: 2015/06/06 16:27:59<br>
+INFO: 2015-06-06 16:28:23 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:28:23 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:28:23 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:28:23 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:28:23 : [START CRAWLER] AT: 2015/06/06 16:28:23<br>
+INFO: 2015-06-06 16:28:46 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:28:46 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:28:46 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:28:46 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:28:46 : [START CRAWLER] AT: 2015/06/06 16:28:46<br>
+INFO: 2015-06-06 16:30:14 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:30:14 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:30:14 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:30:14 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:30:14 : [START CRAWLER] AT: 2015/06/06 16:30:14<br>
+INFO: 2015-06-06 16:30:52 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:30:52 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:30:52 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:30:52 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:30:52 : [START CRAWLER] AT: 2015/06/06 16:30:52<br>
+INFO: 2015-06-06 16:32:31 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:32:31 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:32:31 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:32:31 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:32:31 : [START CRAWLER] AT: 2015/06/06 16:32:31<br>
+INFO: 2015-06-06 16:33:35 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:33:35 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:33:35 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:33:35 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:33:35 : [START CRAWLER] AT: 2015/06/06 16:33:35<br>
+INFO: 2015-06-06 16:33:59 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:33:59 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:33:59 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:33:59 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:33:59 : [START CRAWLER] AT: 2015/06/06 16:33:59<br>
+INFO: 2015-06-06 16:34:15 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:34:15 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:34:15 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:34:15 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:34:15 : [START CRAWLER] AT: 2015/06/06 16:34:15<br>
+INFO: 2015-06-06 16:35:18 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:35:18 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:35:18 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:35:18 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:35:18 : [START CRAWLER] AT: 2015/06/06 16:35:18<br>
+INFO: 2015-06-06 16:35:25 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:35:25 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:35:25 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:35:25 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:35:25 : [START CRAWLER] AT: 2015/06/06 16:35:25<br>
+INFO: 2015-06-06 16:35:28 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:35:28 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:35:28 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:35:28 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:35:28 : [START CRAWLER] AT: 2015/06/06 16:35:28<br>
+INFO: 2015-06-06 16:35:28 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:35:28 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:35:28 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:35:28 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:35:28 : [START CRAWLER] AT: 2015/06/06 16:35:28<br>
+INFO: 2015-06-06 16:35:35 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:35:35 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:35:35 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:35:35 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:35:35 : [START CRAWLER] AT: 2015/06/06 16:35:35<br>
+INFO: 2015-06-06 16:36:12 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:36:12 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:36:12 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:36:12 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:36:12 : [START CRAWLER] AT: 2015/06/06 16:36:12<br>
+INFO: 2015-06-06 16:36:15 : [END CRAWLER AT]: 2015/06/06 16:36:15<br>
+INFO: 2015-06-06 16:36:15 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:36:15 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:37:51 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:37:51 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:37:51 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:37:51 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:37:51 : [START CRAWLER] AT: 2015/06/06 16:37:51<br>
+INFO: 2015-06-06 16:37:52 : [END CRAWLER AT]: 2015/06/06 16:37:52<br>
+INFO: 2015-06-06 16:37:52 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:37:52 : --- Ket thuc bot ---
+INFO: 2015-06-06 16:37:59 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 16:37:59 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 16:37:59 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 16:37:59 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:37:59 : [START CRAWLER] AT: 2015/06/06 16:37:59<br>
+INFO: 2015-06-06 16:37:59 : [END CRAWLER AT]: 2015/06/06 16:37:59<br>
+INFO: 2015-06-06 16:37:59 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 16:37:59 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:15:54 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:15:54 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:15:54 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:15:54 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:15:54 : [START CRAWLER] AT: 2015/06/06 17:15:54<br>
+INFO: 2015-06-06 17:15:54 : [END CRAWLER AT]: 2015/06/06 17:15:54<br>
+INFO: 2015-06-06 17:15:54 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:15:54 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:18:01 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:18:01 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:18:01 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:18:01 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:01 : [START CRAWLER] AT: 2015/06/06 17:18:01<br>
+INFO: 2015-06-06 17:18:01 : [END CRAWLER AT]: 2015/06/06 17:18:01<br>
+INFO: 2015-06-06 17:18:01 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:01 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:18:21 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:18:21 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:18:21 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:18:21 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:21 : [START CRAWLER] AT: 2015/06/06 17:18:21<br>
+INFO: 2015-06-06 17:18:21 : [END CRAWLER AT]: 2015/06/06 17:18:21<br>
+INFO: 2015-06-06 17:18:21 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:21 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:18:34 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:18:34 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:18:34 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:18:34 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:34 : [START CRAWLER] AT: 2015/06/06 17:18:34<br>
+INFO: 2015-06-06 17:18:34 : [END CRAWLER AT]: 2015/06/06 17:18:34<br>
+INFO: 2015-06-06 17:18:34 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:18:34 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:19:48 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:19:48 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:19:48 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:19:48 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:19:48 : [START CRAWLER] AT: 2015/06/06 17:19:48<br>
+INFO: 2015-06-06 17:19:48 : [END CRAWLER AT]: 2015/06/06 17:19:48<br>
+INFO: 2015-06-06 17:19:48 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:19:48 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:29:15 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:29:15 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:29:15 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:29:15 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:29:15 : [START CRAWLER] AT: 2015/06/06 17:29:15<br>
+INFO: 2015-06-06 17:29:15 : [END CRAWLER AT]: 2015/06/06 17:29:15<br>
+INFO: 2015-06-06 17:29:15 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:29:15 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:45:44 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:45:44 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:45:44 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:45:44 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:45:44 : [START CRAWLER] AT: 2015/06/06 17:45:44<br>
+INFO: 2015-06-06 17:45:47 : [END CRAWLER AT]: 2015/06/06 17:45:47<br>
+INFO: 2015-06-06 17:45:47 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:45:47 : --- Ket thuc bot ---
+INFO: 2015-06-06 17:46:34 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 17:46:34 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 17:46:34 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 17:46:34 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:46:34 : [START CRAWLER] AT: 2015/06/06 17:46:34<br>
+INFO: 2015-06-06 17:46:37 : [END CRAWLER AT]: 2015/06/06 17:46:37<br>
+INFO: 2015-06-06 17:46:37 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 17:46:37 : --- Ket thuc bot ---
+INFO: 2015-06-06 18:04:16 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:04:16 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:04:16 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:04:16 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:04:16 : [START CRAWLER] AT: 2015/06/06 18:04:16<br>
+INFO: 2015-06-06 18:13:02 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:13:02 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:13:02 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:13:02 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:13:02 : [START CRAWLER] AT: 2015/06/06 18:13:02<br>
+INFO: 2015-06-06 18:13:10 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:13:10 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:13:10 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:13:10 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:13:10 : [START CRAWLER] AT: 2015/06/06 18:13:10<br>
+INFO: 2015-06-06 18:13:20 : [END CRAWLER AT]: 2015/06/06 18:13:20<br>
+INFO: 2015-06-06 18:13:20 : <br>Ket thuc chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:13:20 : --- Ket thuc bot ---
+INFO: 2015-06-06 18:14:10 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:14:10 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:14:10 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:14:10 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:14:10 : [START CRAWLER] AT: 2015/06/06 18:14:10<br>
+INFO: 2015-06-06 18:15:12 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:15:12 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:15:12 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:15:12 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:15:12 : [START CRAWLER] AT: 2015/06/06 18:15:12<br>
+INFO: 2015-06-06 18:15:30 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:15:30 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:15:30 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:15:30 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:15:30 : [START CRAWLER] AT: 2015/06/06 18:15:30<br>
+INFO: 2015-06-06 18:16:44 : --- Bat dau chay bot ---<br>
+INFO: 2015-06-06 18:16:44 : 1. Xoa cac file log cu trong gioi han: 30 ngay!<br>
+INFO: 2015-06-06 18:16:44 : Da xoa file log cu thanh cong<br>
+INFO: 2015-06-06 18:16:44 : 2. Bat dau chay plugin BATDONGSAN<br>
+INFO: 2015-06-06 18:16:44 : [START CRAWLER] AT: 2015/06/06 18:16:44<br>
